@@ -1,13 +1,13 @@
 ### <div align="center">Hi there, I'm Prajwal S Raikar! 👋</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Final%20Year-CS%20Student-0078D7?style=flat-square&logo=mortar-board&logoColor=white" />
-  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-Developer-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Enthusiast-D24939?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
 
 ## 🚀 About Me
-- 💼 **Aspiring Software Developer** specializing in **Full-Stack Development & DevOps**.
+- 💼 **MERN Stack Developer** passionate about **Full-Stack Development & DevOps**.
 - 🏗️ Built a **real-time chat application** and a **recipe finder app using React & Axios**.
 - 🤖 Developing an **AI chatbot with OpenAI and MetaMask authentication**.
 - 🛠️ **CI/CD & DevOps Enthusiast**: Configured **Jenkins pipelines, SonarQube, Docker deployment**.
@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -37,8 +36,9 @@
 ## 📫 Contact Me
 <p align="center">
   📧 Email: <a href="mailto:prajwalraikar1a@gmail.com">prajwalraikar1a@gmail.com</a>  
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/prajwalraikar">Prajwal S Raikar</a>  
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/prajwal-raikar-994736233">Prajwal S Raikar</a>  
   🐦 Twitter: <a href="https://twitter.com/prajwal_raikar">@prajwal_raikar</a>
+  📄 Resume: <a href="https://drive.google.com/file/d/1vNCF63PvY2XKysHYlMsBag3YFjBfjaSl/view">View Resume</a>
 </p>
 
 Let's connect and build something amazing! ✨
