@@ -22,7 +22,7 @@
 🗄️ Database
 <p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
 🎨 Frontend Basics
-<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>s
+<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
 
 📫 Contact Me
 <p align="center"> 📧 <a href="mailto:prajwalraikar1a@gmail.com">prajwalraikar1a@gmail.com</a> 🔗 <a href="https://www.linkedin.com/in/prajwal-raikar-994736233">LinkedIn</a> 🐦 <a href="https://twitter.com/prajwal_raikar">Twitter</a> 📄 <a href="https://drive.google.com/file/d/1vNCF63PvY2XKysHYlMsBag3YFjBfjaSl/view">Resume</a> </p>
