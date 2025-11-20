@@ -1,32 +1,28 @@
-<div align="center">Hi there, I'm Prajwal S Raikar! 👋</div>
-<p align="center"> <img src="https://img.shields.io/badge/Java-Developer-007396?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-Engineer-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" /> </p>
+<div align="center">👋 Hello, I’m Prajwal S Raikar</div>
+<p align="center"> <img src="https://img.shields.io/badge/Java%20Backend%20Developer-007396?style=for-the-badge&logo=java&logoColor=white" /> </p>
 🚀 About Me
 
-💼 Java Backend Developer
+🔧 Backend developer skilled in Core Java & Spring Boot
 
-🔧 Skilled in Hibernate, JDBC, Servlets & Spring Boot
+🛢️ Strong database knowledge using MySQL
 
-🌐 Able to build full web apps with HTML, CSS & JavaScript
+🧩 Good at Hibernate, JDBC & REST APIs
 
-🛢️ Good at MySQL database design & queries
+🌐 Can build full applications with Servlets + JSP
 
-📌 Building simple and clean APIs using Spring Boot
+💻 Know basic HTML, CSS, JavaScript
 
-📚 Learning more about Microservices & RESTful APIs
+🎯 Aim: Become a strong backend engineer and learn Microservices
 
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=yellow" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Servlets-000000?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>
-📌 Projects
-
-🔗 Student Management System using Spring Boot
-
-🔗 Employee CRUD App using Servlets & JDBC
-
-🔗 Library Management System using Hibernate
-
-(You can add your GitHub links after upload 🚀)
+🛠️ Tech Stack (Ordered by Value)
+🧠 Core Backend
+<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=yellow" /> <img src="https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=oracle&logoColor=white" /> </p>
+🔗 Web & APIs
+<p align="center"> <img src="https://img.shields.io/badge/Servlets-000000?style=for-the-badge&logo=eclipse&logoColor=white" /> <img src="https://img.shields.io/badge/JSP-FF6600?style=for-the-badge&logo=apachetomcat&logoColor=white" /> <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+🗄️ Database
+<p align="center"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
+🎨 Frontend Basics
+<p align="center"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> </p>s
 
 📫 Contact Me
-<p align="center"> 📧 Email: <a href="mailto:prajwalraikar1a@gmail.com">prajwalraikar1a@gmail.com</a> 🔗 LinkedIn: <a href="https://www.linkedin.com/in/prajwal-raikar-994736233">Prajwal S Raikar</a> 🐦 Twitter: <a href="https://twitter.com/prajwal_raikar">@prajwal_raikar</a> 📄 Resume: <a href="https://drive.google.com/file/d/1vNCF63PvY2XKysHYlMsBag3YFjBfjaSl/view">View Resume</a> </p>
-
-✨ Let’s connect and build cool Java projects together!
+<p align="center"> 📧 <a href="mailto:prajwalraikar1a@gmail.com">prajwalraikar1a@gmail.com</a> 🔗 <a href="https://www.linkedin.com/in/prajwal-raikar-994736233">LinkedIn</a> 🐦 <a href="https://twitter.com/prajwal_raikar">Twitter</a> 📄 <a href="https://drive.google.com/file/d/1vNCF63PvY2XKysHYlMsBag3YFjBfjaSl/view">Resume</a> </p>
